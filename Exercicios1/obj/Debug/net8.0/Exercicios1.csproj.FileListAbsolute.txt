@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\bin\Debug\net8.0\Exercicios1.exe
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\bin\Debug\net8.0\Exercicios1.deps.json
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\bin\Debug\net8.0\Exercicios1.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\bin\Debug\net8.0\Exercicios1.dll
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\bin\Debug\net8.0\Exercicios1.pdb
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.sourcelink.json
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.dll
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\refint\Exercicios1.dll
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.pdb
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\Exercicios1.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\C#\Exercicios1\obj\Debug\net8.0\ref\Exercicios1.dll
