@@ -1,0 +1,14 @@
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.sourcelink.json
+C:\Users\leandrocandido\Desktop\C#\Aula_7\bin\Debug\net8.0\Aula_7.exe
+C:\Users\leandrocandido\Desktop\C#\Aula_7\bin\Debug\net8.0\Aula_7.deps.json
+C:\Users\leandrocandido\Desktop\C#\Aula_7\bin\Debug\net8.0\Aula_7.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\C#\Aula_7\bin\Debug\net8.0\Aula_7.dll
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.dll
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\refint\Aula_7.dll
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.pdb
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\Aula_7.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\C#\Aula_7\obj\Debug\net8.0\ref\Aula_7.dll
