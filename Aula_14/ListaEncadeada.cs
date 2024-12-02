@@ -77,7 +77,7 @@ namespace Exemplo12ListPilhFilaENCADEADA
         }
 
         // Função principal para execução do programa
-        static void Main()
+        static void Main11()
         {
             Lista lista = new Lista();
 

@@ -83,7 +83,7 @@ namespace Aula_14
             }
         }
 
-        static void Main()
+        static void Main11()
         {
             Enfileirar(10);
             Enfileirar(20);

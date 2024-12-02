@@ -38,7 +38,7 @@ namespace PilhaEncadeada{
             }
 
         }
-        static void Main(string[] args){
+        static void Main11(string[] args){
             Empilhar(10);
             Empilhar(20);
             Empilhar(30);
