@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\bin\Debug\net8.0\Aula_15.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\bin\Debug\net8.0\Aula_15.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\bin\Debug\net8.0\Aula_15.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\bin\Debug\net8.0\Aula_15.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\bin\Debug\net8.0\Aula_15.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\refint\Aula_15.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\Aula_15.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_15\obj\Debug\net8.0\ref\Aula_15.dll
