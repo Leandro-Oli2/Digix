@@ -23,7 +23,4 @@ namespace padariaEX{
             Console.WriteLine($"Total da compra: {total}");
         }
     }
-
-
-
 }

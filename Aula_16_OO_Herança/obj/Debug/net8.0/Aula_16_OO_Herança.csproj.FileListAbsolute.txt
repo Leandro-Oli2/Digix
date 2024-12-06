@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\bin\Debug\net8.0\Aula_16_OO_Herança.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\bin\Debug\net8.0\Aula_16_OO_Herança.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\bin\Debug\net8.0\Aula_16_OO_Herança.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\bin\Debug\net8.0\Aula_16_OO_Herança.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\bin\Debug\net8.0\Aula_16_OO_Herança.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\refint\Aula_16_OO_Herança.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\Aula_16_OO_Herança.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_16_OO_Herança\obj\Debug\net8.0\ref\Aula_16_OO_Herança.dll
