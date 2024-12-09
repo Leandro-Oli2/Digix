@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_EX", "Aula_17_EX\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_EX2", "Aula_17_EX2\Aula_17_EX2.csproj", "{31757E5F-ED80-44D2-96E2-75ABC65F8A4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Visibility", "Aula_17_OO_Visibility\Aula_17_OO_Visibility.csproj", "{35FC3604-2150-48BD-ACB3-7584D7032A5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{31757E5F-ED80-44D2-96E2-75ABC65F8A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31757E5F-ED80-44D2-96E2-75ABC65F8A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31757E5F-ED80-44D2-96E2-75ABC65F8A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FC3604-2150-48BD-ACB3-7584D7032A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FC3604-2150-48BD-ACB3-7584D7032A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FC3604-2150-48BD-ACB3-7584D7032A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FC3604-2150-48BD-ACB3-7584D7032A5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

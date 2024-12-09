@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\bin\Debug\net8.0\Aula_17_OO_Visibility.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\bin\Debug\net8.0\Aula_17_OO_Visibility.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\bin\Debug\net8.0\Aula_17_OO_Visibility.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\bin\Debug\net8.0\Aula_17_OO_Visibility.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\bin\Debug\net8.0\Aula_17_OO_Visibility.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\refint\Aula_17_OO_Visibility.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\Aula_17_OO_Visibility.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_OO_Visibility\obj\Debug\net8.0\ref\Aula_17_OO_Visibility.dll
