@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\bin\Debug\net8.0\Aula_17_Abstract.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\bin\Debug\net8.0\Aula_17_Abstract.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\bin\Debug\net8.0\Aula_17_Abstract.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\bin\Debug\net8.0\Aula_17_Abstract.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\bin\Debug\net8.0\Aula_17_Abstract.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\refint\Aula_17_Abstract.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\Aula_17_Abstract.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_17_Abstract\obj\Debug\net8.0\ref\Aula_17_Abstract.dll
