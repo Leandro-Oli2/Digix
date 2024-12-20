@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\bin\Debug\net8.0\ExercicioBiblioteca.exe
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\bin\Debug\net8.0\ExercicioBiblioteca.deps.json
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\bin\Debug\net8.0\ExercicioBiblioteca.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\bin\Debug\net8.0\ExercicioBiblioteca.dll
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\bin\Debug\net8.0\ExercicioBiblioteca.pdb
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.dll
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\refint\ExercicioBiblioteca.dll
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.pdb
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ExercicioBiblioteca.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\ExercicioBiblioteca\obj\Debug\net8.0\ref\ExercicioBiblioteca.dll

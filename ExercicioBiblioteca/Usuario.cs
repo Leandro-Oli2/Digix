@@ -7,16 +7,16 @@ namespace ExercicioBiblioteca
 {
     public class Usuario
     {
-        public string Name { get; set; }
+        public string Nome { get; set; }
         public string Cpf { get; set; }
 
         public Usuario( string name, string cpf ){
-            Name = name;
+            Nome = name;
             Cpf = cpf;
         }
 
         public void GetInformacoes(){
-            Console.WriteLine($"Nome: {Name}, CPF: {Cpf}");
+            Console.WriteLine($"Nome: {Nome}, CPF: {Cpf}");
         }
     }
 }

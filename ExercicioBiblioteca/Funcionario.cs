@@ -7,20 +7,35 @@ namespace ExercicioBiblioteca
 {
     public class Funcionario : Usuario
     {
-        public string Nivel { get; set; }
-        public Funcionario(string nome, string senha, string nivel) : base(nome, senha)
+        public string Cargo { get; private set; }
+
+        public Funcionario(string nome, string cpf, string cargo) : base(nome, cpf)
         {
-            Nivel = nivel;
+            Cargo = cargo;
         }
-        public void AdicionarLivro(Biblioteca biblioteca, string livro){
-            biblioteca.AdicionarLivro(livro);
+
+        public void AtualizarCatalogo(CatalogoLivros catalogo, string titulo, string autor, int ano, int exemplares, bool adicionar)
+        {
+            if (adicionar)
+            {
+                catalogo.AdicionarLivro(titulo, autor, ano, exemplares);
+            }
+            else
+            {
+                catalogo.RemoverLivro(titulo);
+            }
         }
-        public void RemoverLivro(Biblioteca biblioteca, string livro){
-            biblioteca.RemoverLivro(livro);
+        public void RealizarEmprestimo(Leitor leitor, string livro, CatalogoLivros catalogo)
+        {
+            if (catalogo.LivroDisponivel(livro))
+            {
+                leitor.EmprestarLivro(livro);
+                catalogo.RemoverLivro(livro);
+            }
+            else
+            {
+                Console.WriteLine($"O livro '{livro}' não está disponível no catálogo.");
+            }
         }
-        public void RealizarEmprestimo(Biblioteca biblioteca, Leitor leitor, string livro){
-            
-        }
-        
     }
 }

@@ -7,42 +7,25 @@ namespace ExercicioBiblioteca
 {
     public class Biblioteca
     {
-        private string name;
-        private string endereco;
+        public string Nome { get; private set; }
         private CatalogoLivros catalogo;
+        private List<Funcionario> funcionarios;
 
-        private List<Funcionario> Funcionarios { get; set; }
-        
-        public Biblioteca(string name, string endereco)
+        public Biblioteca(string nome)
         {
-            this.name = name;
-            this.endereco = endereco;
+            Nome = nome;
             catalogo = new CatalogoLivros();
-            Funcionarios = new List<Funcionario>();
+            funcionarios = new List<Funcionario>();
         }
-        public void AdicionarLivro(string livro)
-        {
-            catalogo.ConsultarCatalog().Add(livro); 
-            System.Console.WriteLine("Livro Adicionado ao Catalogo!");
-        }
-        
-        public void RemoverLivro(string livro)
-        {
-            catalogo.ConsultarCatalog().Remove(livro);
-            System.Console.WriteLine("Livro Removido do Catalogo!");
-        }
-        
-        public List<string> ConsultarCatalog(){
-            return catalogo.ConsultarCatalog();
-        }
-        
+
         public void AdicionarFuncionario(Funcionario funcionario)
         {
-            Funcionarios.Add(funcionario);
-            System.Console.WriteLine("Funcionario Adicionado!");
+            funcionarios.Add(funcionario);
         }
-        public void RealizarEmprestimo(Leitor leitor, string livro){
-            
+
+        public CatalogoLivros ConsultarCatalogo()
+        {
+            return catalogo;
         }
     }
 }
