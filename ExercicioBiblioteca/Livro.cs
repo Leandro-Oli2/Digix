@@ -7,18 +7,17 @@ namespace ExercicioBiblioteca
 {
     public class Livro
     {
-        public string _titulo;
-        private string _autor;
-        private string _isbn;
-        private DateTime _anoPub;
-        private int _numeroExmp;
+        public string Titulo { get; private set; }
+        public string Autor { get; private set; }
+        public int AnoDePublicacao { get; private set; }
+        public int Exemplares { get; private set; }
 
-        public Livro(string titulo, string autor, string isbn, DateTime anoPub, int numeroExmp){
-            _titulo = titulo;
-            _autor = autor;
-            _isbn = isbn;
-            _anoPub = anoPub;
-            _numeroExmp = numeroExmp;    
+        public Livro(string titulo, string autor, int anoDePublicacao, int exemplares)
+        {
+            Titulo = titulo;
+            Autor = autor;
+            AnoDePublicacao = anoDePublicacao;
+            Exemplares = exemplares;
         }
     }
 }
