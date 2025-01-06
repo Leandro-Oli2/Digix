@@ -18,7 +18,7 @@ namespace Aula_21_OO
             Endereco = new Endereco();
         }
         //constructed
-        public Cliente(string nome, string rua, string cidade, string estado, int cep, string telefone, string cpf ){
+        public Cliente(string nome, string rua, string cidade, Estado estado, int cep, string telefone, string cpf ){
                 Nome = nome;
                 Endereco = new Endereco(rua, cidade, estado, cep);
                 Telefone = telefone;
