@@ -7,7 +7,7 @@ namespace ExEnum._06._01
 {
     public class Product
     {
-        public string? Name { get; set; }
+        public string Name { get; set; }
         public double Preco { get; set; } 
     }
 }

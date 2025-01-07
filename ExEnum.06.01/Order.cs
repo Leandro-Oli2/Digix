@@ -22,7 +22,12 @@ namespace ExEnum._06._01
         }
         public double Total(){
             // Calcula o total do pedido
-            return items.Sum(i => i.Quantidade * i.Preco);
+            double total = 0;
+            foreach (OrderItem item in items)
+            {
+                total += item.subTotal();
+            }
+            return total;
         }
     }
 }

@@ -8,13 +8,10 @@ namespace ExEnum._06._01
     public class OrderItem
     {
         public int Quantidade { get; set; }
-        public Product? Preco { get; set; }
+        public double Preco { get; set; }
 
         public double subTotal(){
-            if(Preco is null){
-                return 0;
-            }
-            return Quantidade * Preco.Preco;
+            return Quantidade * Preco;
         }
     }
 }
