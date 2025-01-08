@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\bin\Debug\net8.0\Aula_24_OO_Excecoes.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\bin\Debug\net8.0\Aula_24_OO_Excecoes.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\bin\Debug\net8.0\Aula_24_OO_Excecoes.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\bin\Debug\net8.0\Aula_24_OO_Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\bin\Debug\net8.0\Aula_24_OO_Excecoes.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\refint\Aula_24_OO_Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\Aula_24_OO_Excecoes.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_24_OO_Excecoes\obj\Debug\net8.0\ref\Aula_24_OO_Excecoes.dll

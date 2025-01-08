@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\bin\Debug\net8.0\Aula_23_OO_Selados.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\bin\Debug\net8.0\Aula_23_OO_Selados.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\bin\Debug\net8.0\Aula_23_OO_Selados.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\bin\Debug\net8.0\Aula_23_OO_Selados.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\bin\Debug\net8.0\Aula_23_OO_Selados.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\refint\Aula_23_OO_Selados.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\Aula_23_OO_Selados.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_23_OO_Selados\obj\Debug\net8.0\ref\Aula_23_OO_Selados.dll

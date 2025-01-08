@@ -25,7 +25,7 @@ namespace Ex07._01_Enum
         }
         public void Imprimir(){
             foreach(var empregado in empregados){
-                Console.WriteLine($"Nome: {empregado.nome}");
+                Console.WriteLine($"Nome: {empregado.nome}, Status de licença: {empregado.statusLicenca}, Tipo de empregado: {empregado.tipoEmpregador}");
             }
         }
         public double FolhaPagamento(){

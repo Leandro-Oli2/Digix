@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\bin\Debug\net8.0\Ex08.01-Excecoes.exe
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\bin\Debug\net8.0\Ex08.01-Excecoes.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\bin\Debug\net8.0\Ex08.01-Excecoes.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\bin\Debug\net8.0\Ex08.01-Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\bin\Debug\net8.0\Ex08.01-Excecoes.pdb
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\refint\Ex08.01-Excecoes.dll
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.pdb
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\Ex08.01-Excecoes.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Ex08.01-Excecoes\obj\Debug\net8.0\ref\Ex08.01-Excecoes.dll
