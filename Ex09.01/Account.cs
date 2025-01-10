@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Ex09._01
 {
-    public class Account
+    public class Account : ISacar
     {
         public string number { get; set; }
         public double balance { get; set; }

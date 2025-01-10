@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Ex09._01
 {
-    public class CurrentAccount : Account
+    public class CurrentAccount : Account, ISacar
     {
         public double withdrawLimit { get; set; }
 
