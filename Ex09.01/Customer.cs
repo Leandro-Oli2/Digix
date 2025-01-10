@@ -23,13 +23,13 @@ namespace Ex09._01
         public Customer(){
 
         }
-        public void VerifyPassword(string password){
+        public bool VerifyPassword(string password){
             if(password != Pin){
-                Console.WriteLine("Senha inválida!");
+                throw new DomainException("Senha inválida!");
             }else{
                 Console.WriteLine("Senha válida!");
+                return true;
             }
-
         }
     }
 }

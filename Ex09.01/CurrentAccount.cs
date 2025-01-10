@@ -9,7 +9,7 @@ namespace Ex09._01
     {
         public double withdrawLimit { get; set; }
 
-        public CurrentAccount(string number, double balance, Bank bank, double withdrawLimit) : base(number, balance, bank)
+        public CurrentAccount(string number, double balance, Bank bank, Customer password , double withdrawLimit) : base(number, balance, bank, password)
         {
             this.withdrawLimit = withdrawLimit;
         }

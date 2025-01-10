@@ -7,7 +7,7 @@ namespace Ex09._01
 {
     public class SavingAccount : Account
     {
-        public SavingAccount(string number, double balance, Bank bank) : base(number, balance, bank)
+        public SavingAccount(string number, double balance, Bank bank, Customer password) : base(number, balance, bank, password)
         {
         }
     }

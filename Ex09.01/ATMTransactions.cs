@@ -29,8 +29,11 @@ namespace Ex09._01
         public void toString(){
             Console.WriteLine($"ID da transação: {idTransaction}, Data: {dateTransaction.ToShortDateString()}, Valor: {amountTransaction}, Tipo: {typeTransaction}, Saldo após a transação: {postBalance}");
         }
-        public void ModifiedTransaction(){
-            
+        public void Modificar(double novoValor)
+        {
+            double Valor;
+            Valor = novoValor;
+            Console.WriteLine($"Transação modificada. Novo valor: {Valor}");
         }
     }
 }
