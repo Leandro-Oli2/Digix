@@ -6,10 +6,11 @@ using System.Transactions;
 
 namespace Ex09._01
 {
-    public class ATMTransactions
+    public class ATMTransactions : ITransacoes
     {
         public int idTransaction { get; set; }
         public DateTime dateTransaction { get; set; }
+        public Account saldo { get; set; }
         public double amountTransaction { get; set; }
         public string typeTransaction { get; set; }
         public double postBalance { get; set; }
@@ -26,11 +27,14 @@ namespace Ex09._01
         public void generateID(){
             idTransaction = random.Next();
         }
-        public void toString(){
-            Console.WriteLine($"ID da transação: {idTransaction}, Data: {dateTransaction.ToShortDateString()}, Valor: {amountTransaction}, Tipo: {typeTransaction}, Saldo após a transação: {postBalance}");
+        public void Transacoes(){
+            Console.WriteLine($"ID da transação: {idTransaction}, Data: {dateTransaction.ToShortDateString()}, Valor Após Transação: {amountTransaction}, Tipo: {typeTransaction}, Valor Informado: {postBalance}");
         }
-        public void ModifiedTransaction(){
-            
+        public void Modificar(double novoValor)
+        {
+            double Valor;
+            Valor = novoValor;
+            Console.WriteLine($"Transação modificada. Novo valor: {Valor}");
         }
     }
 }

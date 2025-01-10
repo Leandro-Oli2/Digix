@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace Ex09._01
 {
-    public interface ISacar
+    public interface ITransacoes
     {
-        public void withdraw(double amount);
+        void Transacoes();
     }
 }

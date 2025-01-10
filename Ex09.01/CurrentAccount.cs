@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 
 namespace Ex09._01
 {
-    public class CurrentAccount : Account, ISacar
+    public class CurrentAccount : Account
     {
         public double withdrawLimit { get; set; }
 
-        public CurrentAccount(string number, double balance, Bank bank, double withdrawLimit) : base(number, balance, bank)
+        public CurrentAccount(string number, double balance, Bank bank, Customer password , double withdrawLimit) : base(number, balance, bank, password)
         {
             this.withdrawLimit = withdrawLimit;
         }
-        public override void withdraw(double amount)
+        public void withdraw(double amount)
         {
             if (amount <= 0)
             {
