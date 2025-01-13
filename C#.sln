@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09.01", "Ex09.01\Ex09.01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_25_OO_Struct", "Aula_25_OO_Struct\Aula_25_OO_Struct.csproj", "{996BFCC5-491D-49F7-BD0E-DF024AD0A5BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_26_ManipulacaoArq", "Aula_26_ManipulacaoArq\Aula_26_ManipulacaoArq.csproj", "{A9E9C07F-4522-4D98-BDA5-B89AB1CB6206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -311,6 +313,10 @@ Global
 		{996BFCC5-491D-49F7-BD0E-DF024AD0A5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996BFCC5-491D-49F7-BD0E-DF024AD0A5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996BFCC5-491D-49F7-BD0E-DF024AD0A5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E9C07F-4522-4D98-BDA5-B89AB1CB6206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E9C07F-4522-4D98-BDA5-B89AB1CB6206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E9C07F-4522-4D98-BDA5-B89AB1CB6206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E9C07F-4522-4D98-BDA5-B89AB1CB6206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
