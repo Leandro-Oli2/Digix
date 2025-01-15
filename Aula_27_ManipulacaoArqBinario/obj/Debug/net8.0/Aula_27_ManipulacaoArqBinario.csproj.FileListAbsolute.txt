@@ -1,0 +1,15 @@
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\bin\Debug\net8.0\Aula_27_ManipulacaoArqBinario.exe
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\bin\Debug\net8.0\Aula_27_ManipulacaoArqBinario.deps.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\bin\Debug\net8.0\Aula_27_ManipulacaoArqBinario.runtimeconfig.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\bin\Debug\net8.0\Aula_27_ManipulacaoArqBinario.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\bin\Debug\net8.0\Aula_27_ManipulacaoArqBinario.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.AssemblyInfoInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.AssemblyInfo.cs
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.csproj.CoreCompileInputs.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.sourcelink.json
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\refint\Aula_27_ManipulacaoArqBinario.dll
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.pdb
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\Aula_27_ManipulacaoArqBinario.genruntimeconfig.cache
+C:\Users\leandrocandido\Desktop\Digix\Aula_27_ManipulacaoArqBinario\obj\Debug\net8.0\ref\Aula_27_ManipulacaoArqBinario.dll
