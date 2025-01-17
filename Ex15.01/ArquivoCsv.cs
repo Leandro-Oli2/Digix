@@ -9,7 +9,6 @@ namespace Ex15._01
         static void Main(string[] args)
         {
             string CaminhoPath = @"C:\Users\leandrocandido\Desktop\Teste2\dados.csv";
-
             if (File.Exists(CaminhoPath))
             {
                 try

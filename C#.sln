@@ -111,6 +111,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_27_ManipulacaoArqBinar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15.01", "Ex15.01\Ex15.01.csproj", "{55D71D1C-C61F-4C71-9F73-C505D8935C31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMatriz17.01", "ExMatriz17.01\ExMatriz17.01.csproj", "{5734E488-5CB9-4C63-A69A-FBE6951CB60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_28_Manipulacao", "Aula_28_Manipulacao\Aula_28_Manipulacao.csproj", "{53E62354-F893-4336-AFB9-632367B86D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,6 +333,14 @@ Global
 		{55D71D1C-C61F-4C71-9F73-C505D8935C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D71D1C-C61F-4C71-9F73-C505D8935C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D71D1C-C61F-4C71-9F73-C505D8935C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5734E488-5CB9-4C63-A69A-FBE6951CB60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5734E488-5CB9-4C63-A69A-FBE6951CB60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5734E488-5CB9-4C63-A69A-FBE6951CB60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5734E488-5CB9-4C63-A69A-FBE6951CB60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E62354-F893-4336-AFB9-632367B86D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E62354-F893-4336-AFB9-632367B86D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E62354-F893-4336-AFB9-632367B86D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E62354-F893-4336-AFB9-632367B86D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
