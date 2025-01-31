@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMatriz17.01", "ExMatriz17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_28_Manipulacao", "Aula_28_Manipulacao\Aula_28_Manipulacao.csproj", "{53E62354-F893-4336-AFB9-632367B86D92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_Padoca", "Desafio_Padoca\Desafio_Padoca.csproj", "{F92EEC87-6BD7-4165-BD6F-74E17B4CFBF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -341,6 +343,10 @@ Global
 		{53E62354-F893-4336-AFB9-632367B86D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E62354-F893-4336-AFB9-632367B86D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E62354-F893-4336-AFB9-632367B86D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92EEC87-6BD7-4165-BD6F-74E17B4CFBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92EEC87-6BD7-4165-BD6F-74E17B4CFBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92EEC87-6BD7-4165-BD6F-74E17B4CFBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92EEC87-6BD7-4165-BD6F-74E17B4CFBF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
